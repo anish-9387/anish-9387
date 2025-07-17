@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋 I'm Anish!
 
-<!--
-**anish-9387/anish-9387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on: [Your Current Project]  
+🌱 I’m learning: [Tech or topic]  
+💬 Ask me about: Arduino, Cybersecurity, Linux, Java  
+📫 How to reach me: [email/LinkedIn]
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### 🧠 Currently Learning
+- Reverse engineering
+- Modbus protocol
+- Discord bot development
