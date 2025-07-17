@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/Anish-9387/Anish-9387/main/wave.gif" width="40px"> I'm Anish</h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> I'm Anish</h1>
 
 ---
 
 ## 🧑‍💼 About Me
 
-🎓 Currently persuing my B.Tech in Computer Science Engineering  
-💻 Currntly learning **MERN Stack** to build full-stack web apps  
+🎓 Currently persuing my **B.Tech in Computer Science Engineering**  
+💻 Currently learning **MERN Stack** to build full-stack web apps  
 🛡️ Having interest in **Cyber Security** and **Linux Internals**  
 🚀 Would love to contribute to projects that make an impact  
 
@@ -13,12 +13,12 @@
 
 ## 🚀 Skills & Tech Stack
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cpp)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Frontend](https://img.shields.io/badge/-Frontend-FE7A16?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![C](https://img.shields.io/badge/C-EDF4FF?style=for-the-badge&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/C++-E6F0FF?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-F4F9FF?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-EBF3FF?style=for-the-badge&logo=openjdk&logoColor=007396)
+![Frontend](https://img.shields.io/badge/Frontend-FFF2E6?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Git](https://img.shields.io/badge/Git-FDECEC?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### 📈 My Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anish-9387&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-9387&theme=react-dark&hide_border=false&area=true" />
 </p>
 
 ### 🔥 GitHub Stats
