@@ -36,7 +36,7 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anish-9387&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=anish-9387&theme=radical&hide_border=true" />
 </p>
 
 ---
